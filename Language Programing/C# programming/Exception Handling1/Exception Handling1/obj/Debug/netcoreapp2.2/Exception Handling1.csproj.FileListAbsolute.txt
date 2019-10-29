@@ -1,0 +1,11 @@
+H:\Basic programming\Language Programing\C# programming\Exception Handling1\Exception Handling1\bin\Debug\netcoreapp2.2\Exception Handling1.deps.json
+H:\Basic programming\Language Programing\C# programming\Exception Handling1\Exception Handling1\bin\Debug\netcoreapp2.2\Exception Handling1.runtimeconfig.json
+H:\Basic programming\Language Programing\C# programming\Exception Handling1\Exception Handling1\bin\Debug\netcoreapp2.2\Exception Handling1.runtimeconfig.dev.json
+H:\Basic programming\Language Programing\C# programming\Exception Handling1\Exception Handling1\bin\Debug\netcoreapp2.2\Exception Handling1.dll
+H:\Basic programming\Language Programing\C# programming\Exception Handling1\Exception Handling1\bin\Debug\netcoreapp2.2\Exception Handling1.pdb
+H:\Basic programming\Language Programing\C# programming\Exception Handling1\Exception Handling1\obj\Debug\netcoreapp2.2\Exception Handling1.csprojAssemblyReference.cache
+H:\Basic programming\Language Programing\C# programming\Exception Handling1\Exception Handling1\obj\Debug\netcoreapp2.2\Exception Handling1.csproj.CoreCompileInputs.cache
+H:\Basic programming\Language Programing\C# programming\Exception Handling1\Exception Handling1\obj\Debug\netcoreapp2.2\Exception Handling1.AssemblyInfoInputs.cache
+H:\Basic programming\Language Programing\C# programming\Exception Handling1\Exception Handling1\obj\Debug\netcoreapp2.2\Exception Handling1.AssemblyInfo.cs
+H:\Basic programming\Language Programing\C# programming\Exception Handling1\Exception Handling1\obj\Debug\netcoreapp2.2\Exception Handling1.dll
+H:\Basic programming\Language Programing\C# programming\Exception Handling1\Exception Handling1\obj\Debug\netcoreapp2.2\Exception Handling1.pdb

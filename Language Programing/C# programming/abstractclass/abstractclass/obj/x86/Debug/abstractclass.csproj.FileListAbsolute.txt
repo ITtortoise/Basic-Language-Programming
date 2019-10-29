@@ -1,0 +1,4 @@
+H:\Basic programming\Language Programing\C# programming\abstractclass\abstractclass\bin\Debug\abstractclass.exe
+H:\Basic programming\Language Programing\C# programming\abstractclass\abstractclass\bin\Debug\abstractclass.pdb
+H:\Basic programming\Language Programing\C# programming\abstractclass\abstractclass\obj\x86\Debug\abstractclass.exe
+H:\Basic programming\Language Programing\C# programming\abstractclass\abstractclass\obj\x86\Debug\abstractclass.pdb

@@ -1,0 +1,10 @@
+<?php
+/* comparision operator
+==,===,!=,<>,!==,<,>,<=,>= */
+
+$x=10;
+$y=10;
+
+var_dump($x===$y)
+
+?>

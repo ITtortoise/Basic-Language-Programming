@@ -1,0 +1,22 @@
+C:\Users\shohag_shadaf\source\repos\structure\structure\obj\Debug\netcoreapp2.2\structure.csprojAssemblyReference.cache
+C:\Users\shohag_shadaf\source\repos\structure\structure\obj\Debug\netcoreapp2.2\structure.csproj.CoreCompileInputs.cache
+C:\Users\shohag_shadaf\source\repos\structure\structure\obj\Debug\netcoreapp2.2\structure.AssemblyInfoInputs.cache
+C:\Users\shohag_shadaf\source\repos\structure\structure\obj\Debug\netcoreapp2.2\structure.AssemblyInfo.cs
+C:\Users\shohag_shadaf\source\repos\structure\structure\bin\Debug\netcoreapp2.2\structure.deps.json
+C:\Users\shohag_shadaf\source\repos\structure\structure\bin\Debug\netcoreapp2.2\structure.runtimeconfig.json
+C:\Users\shohag_shadaf\source\repos\structure\structure\bin\Debug\netcoreapp2.2\structure.runtimeconfig.dev.json
+C:\Users\shohag_shadaf\source\repos\structure\structure\bin\Debug\netcoreapp2.2\structure.dll
+C:\Users\shohag_shadaf\source\repos\structure\structure\bin\Debug\netcoreapp2.2\structure.pdb
+C:\Users\shohag_shadaf\source\repos\structure\structure\obj\Debug\netcoreapp2.2\structure.dll
+C:\Users\shohag_shadaf\source\repos\structure\structure\obj\Debug\netcoreapp2.2\structure.pdb
+H:\Basic programming\Language Programing\C# programming\structure\structure\bin\Debug\netcoreapp2.2\structure.deps.json
+H:\Basic programming\Language Programing\C# programming\structure\structure\bin\Debug\netcoreapp2.2\structure.runtimeconfig.json
+H:\Basic programming\Language Programing\C# programming\structure\structure\bin\Debug\netcoreapp2.2\structure.runtimeconfig.dev.json
+H:\Basic programming\Language Programing\C# programming\structure\structure\bin\Debug\netcoreapp2.2\structure.dll
+H:\Basic programming\Language Programing\C# programming\structure\structure\bin\Debug\netcoreapp2.2\structure.pdb
+H:\Basic programming\Language Programing\C# programming\structure\structure\obj\Debug\netcoreapp2.2\structure.csprojAssemblyReference.cache
+H:\Basic programming\Language Programing\C# programming\structure\structure\obj\Debug\netcoreapp2.2\structure.csproj.CoreCompileInputs.cache
+H:\Basic programming\Language Programing\C# programming\structure\structure\obj\Debug\netcoreapp2.2\structure.AssemblyInfoInputs.cache
+H:\Basic programming\Language Programing\C# programming\structure\structure\obj\Debug\netcoreapp2.2\structure.AssemblyInfo.cs
+H:\Basic programming\Language Programing\C# programming\structure\structure\obj\Debug\netcoreapp2.2\structure.dll
+H:\Basic programming\Language Programing\C# programming\structure\structure\obj\Debug\netcoreapp2.2\structure.pdb

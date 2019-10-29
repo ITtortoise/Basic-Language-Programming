@@ -1,0 +1,11 @@
+H:\Basic programming\Language Programing\C# programming\Dynamic data_type\Dynamic data_type\bin\Debug\netcoreapp2.2\Dynamic data_type.deps.json
+H:\Basic programming\Language Programing\C# programming\Dynamic data_type\Dynamic data_type\bin\Debug\netcoreapp2.2\Dynamic data_type.runtimeconfig.json
+H:\Basic programming\Language Programing\C# programming\Dynamic data_type\Dynamic data_type\bin\Debug\netcoreapp2.2\Dynamic data_type.runtimeconfig.dev.json
+H:\Basic programming\Language Programing\C# programming\Dynamic data_type\Dynamic data_type\bin\Debug\netcoreapp2.2\Dynamic data_type.dll
+H:\Basic programming\Language Programing\C# programming\Dynamic data_type\Dynamic data_type\bin\Debug\netcoreapp2.2\Dynamic data_type.pdb
+H:\Basic programming\Language Programing\C# programming\Dynamic data_type\Dynamic data_type\obj\Debug\netcoreapp2.2\Dynamic data_type.csprojAssemblyReference.cache
+H:\Basic programming\Language Programing\C# programming\Dynamic data_type\Dynamic data_type\obj\Debug\netcoreapp2.2\Dynamic data_type.csproj.CoreCompileInputs.cache
+H:\Basic programming\Language Programing\C# programming\Dynamic data_type\Dynamic data_type\obj\Debug\netcoreapp2.2\Dynamic data_type.AssemblyInfoInputs.cache
+H:\Basic programming\Language Programing\C# programming\Dynamic data_type\Dynamic data_type\obj\Debug\netcoreapp2.2\Dynamic data_type.AssemblyInfo.cs
+H:\Basic programming\Language Programing\C# programming\Dynamic data_type\Dynamic data_type\obj\Debug\netcoreapp2.2\Dynamic data_type.dll
+H:\Basic programming\Language Programing\C# programming\Dynamic data_type\Dynamic data_type\obj\Debug\netcoreapp2.2\Dynamic data_type.pdb

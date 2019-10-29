@@ -1,0 +1,6 @@
+H:\Basic programming\Language Programing\C# programming\hellow world\hellow world\bin\Debug\hellow world.exe
+H:\Basic programming\Language Programing\C# programming\hellow world\hellow world\bin\Debug\hellow world.pdb
+H:\Basic programming\Language Programing\C# programming\hellow world\hellow world\obj\x86\Debug\hellow world.exe
+H:\Basic programming\Language Programing\C# programming\hellow world\hellow world\obj\x86\Debug\hellow world.pdb
+H:\Basic programming\Language Programing\C# programming\hellow world\hellow world\obj\x86\Debug\hellow world.csprojAssemblyReference.cache
+H:\Basic programming\Language Programing\C# programming\hellow world\hellow world\obj\x86\Debug\hellow world.csproj.CoreCompileInputs.cache

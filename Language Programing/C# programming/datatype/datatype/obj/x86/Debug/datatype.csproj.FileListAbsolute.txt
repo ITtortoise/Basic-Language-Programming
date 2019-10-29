@@ -1,0 +1,5 @@
+H:\Basic programming\Language Programing\C# programming\datatype\datatype\bin\Debug\datatype.exe
+H:\Basic programming\Language Programing\C# programming\datatype\datatype\bin\Debug\datatype.pdb
+H:\Basic programming\Language Programing\C# programming\datatype\datatype\obj\x86\Debug\datatype.exe
+H:\Basic programming\Language Programing\C# programming\datatype\datatype\obj\x86\Debug\datatype.pdb
+H:\Basic programming\Language Programing\C# programming\datatype\datatype\obj\x86\Debug\datatype.csprojResolveAssemblyReference.cache

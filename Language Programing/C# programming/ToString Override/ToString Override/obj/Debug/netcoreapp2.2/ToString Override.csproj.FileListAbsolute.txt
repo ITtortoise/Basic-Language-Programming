@@ -1,0 +1,11 @@
+H:\Basic programming\Language Programing\C# programming\ToString Override\ToString Override\bin\Debug\netcoreapp2.2\ToString Override.deps.json
+H:\Basic programming\Language Programing\C# programming\ToString Override\ToString Override\bin\Debug\netcoreapp2.2\ToString Override.runtimeconfig.json
+H:\Basic programming\Language Programing\C# programming\ToString Override\ToString Override\bin\Debug\netcoreapp2.2\ToString Override.runtimeconfig.dev.json
+H:\Basic programming\Language Programing\C# programming\ToString Override\ToString Override\bin\Debug\netcoreapp2.2\ToString Override.dll
+H:\Basic programming\Language Programing\C# programming\ToString Override\ToString Override\bin\Debug\netcoreapp2.2\ToString Override.pdb
+H:\Basic programming\Language Programing\C# programming\ToString Override\ToString Override\obj\Debug\netcoreapp2.2\ToString Override.csprojAssemblyReference.cache
+H:\Basic programming\Language Programing\C# programming\ToString Override\ToString Override\obj\Debug\netcoreapp2.2\ToString Override.csproj.CoreCompileInputs.cache
+H:\Basic programming\Language Programing\C# programming\ToString Override\ToString Override\obj\Debug\netcoreapp2.2\ToString Override.AssemblyInfoInputs.cache
+H:\Basic programming\Language Programing\C# programming\ToString Override\ToString Override\obj\Debug\netcoreapp2.2\ToString Override.AssemblyInfo.cs
+H:\Basic programming\Language Programing\C# programming\ToString Override\ToString Override\obj\Debug\netcoreapp2.2\ToString Override.dll
+H:\Basic programming\Language Programing\C# programming\ToString Override\ToString Override\obj\Debug\netcoreapp2.2\ToString Override.pdb

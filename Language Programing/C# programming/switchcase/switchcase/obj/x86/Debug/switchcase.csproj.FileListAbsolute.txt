@@ -1,0 +1,4 @@
+H:\Basic programming\Language Programing\C# programming\switchcase\switchcase\bin\Debug\switchcase.exe
+H:\Basic programming\Language Programing\C# programming\switchcase\switchcase\bin\Debug\switchcase.pdb
+H:\Basic programming\Language Programing\C# programming\switchcase\switchcase\obj\x86\Debug\switchcase.exe
+H:\Basic programming\Language Programing\C# programming\switchcase\switchcase\obj\x86\Debug\switchcase.pdb

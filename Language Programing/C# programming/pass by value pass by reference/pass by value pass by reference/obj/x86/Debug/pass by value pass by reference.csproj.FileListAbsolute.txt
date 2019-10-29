@@ -1,0 +1,6 @@
+H:\Basic programming\Language Programing\C# programming\pass by value pass by reference\pass by value pass by reference\bin\Debug\pass by value pass by reference.exe
+H:\Basic programming\Language Programing\C# programming\pass by value pass by reference\pass by value pass by reference\bin\Debug\pass by value pass by reference.pdb
+H:\Basic programming\Language Programing\C# programming\pass by value pass by reference\pass by value pass by reference\obj\x86\Debug\pass by value pass by reference.exe
+H:\Basic programming\Language Programing\C# programming\pass by value pass by reference\pass by value pass by reference\obj\x86\Debug\pass by value pass by reference.pdb
+H:\Basic programming\Language Programing\C# programming\pass by value pass by reference\pass by value pass by reference\obj\x86\Debug\pass by value pass by reference.csprojAssemblyReference.cache
+H:\Basic programming\Language Programing\C# programming\pass by value pass by reference\pass by value pass by reference\obj\x86\Debug\pass by value pass by reference.csproj.CoreCompileInputs.cache

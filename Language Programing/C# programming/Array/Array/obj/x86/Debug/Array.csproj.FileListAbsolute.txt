@@ -1,0 +1,6 @@
+H:\Basic programming\Language Programing\C# programming\Array\Array\bin\Debug\Array.exe
+H:\Basic programming\Language Programing\C# programming\Array\Array\bin\Debug\Array.pdb
+H:\Basic programming\Language Programing\C# programming\Array\Array\obj\x86\Debug\Array.exe
+H:\Basic programming\Language Programing\C# programming\Array\Array\obj\x86\Debug\Array.pdb
+H:\Basic programming\Language Programing\C# programming\Array\Array\obj\x86\Debug\Array.csprojAssemblyReference.cache
+H:\Basic programming\Language Programing\C# programming\Array\Array\obj\x86\Debug\Array.csproj.CoreCompileInputs.cache

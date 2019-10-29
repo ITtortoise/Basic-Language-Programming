@@ -1,0 +1,4 @@
+H:\Basic programming\Language Programing\C# programming\input output\input output\bin\Debug\input output.exe
+H:\Basic programming\Language Programing\C# programming\input output\input output\bin\Debug\input output.pdb
+H:\Basic programming\Language Programing\C# programming\input output\input output\obj\x86\Debug\input output.exe
+H:\Basic programming\Language Programing\C# programming\input output\input output\obj\x86\Debug\input output.pdb

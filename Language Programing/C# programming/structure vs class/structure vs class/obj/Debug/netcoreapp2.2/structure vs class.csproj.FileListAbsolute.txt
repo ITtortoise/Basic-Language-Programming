@@ -1,0 +1,10 @@
+H:\Basic programming\Language Programing\C# programming\structure vs class\structure vs class\bin\Debug\netcoreapp2.2\structure vs class.deps.json
+H:\Basic programming\Language Programing\C# programming\structure vs class\structure vs class\bin\Debug\netcoreapp2.2\structure vs class.runtimeconfig.json
+H:\Basic programming\Language Programing\C# programming\structure vs class\structure vs class\bin\Debug\netcoreapp2.2\structure vs class.runtimeconfig.dev.json
+H:\Basic programming\Language Programing\C# programming\structure vs class\structure vs class\bin\Debug\netcoreapp2.2\structure vs class.dll
+H:\Basic programming\Language Programing\C# programming\structure vs class\structure vs class\bin\Debug\netcoreapp2.2\structure vs class.pdb
+H:\Basic programming\Language Programing\C# programming\structure vs class\structure vs class\obj\Debug\netcoreapp2.2\structure vs class.csproj.CoreCompileInputs.cache
+H:\Basic programming\Language Programing\C# programming\structure vs class\structure vs class\obj\Debug\netcoreapp2.2\structure vs class.AssemblyInfoInputs.cache
+H:\Basic programming\Language Programing\C# programming\structure vs class\structure vs class\obj\Debug\netcoreapp2.2\structure vs class.AssemblyInfo.cs
+H:\Basic programming\Language Programing\C# programming\structure vs class\structure vs class\obj\Debug\netcoreapp2.2\structure vs class.dll
+H:\Basic programming\Language Programing\C# programming\structure vs class\structure vs class\obj\Debug\netcoreapp2.2\structure vs class.pdb
