@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Basic Programming\\C#NumTheoryAlgo-STL-DS-Algo\\NumberTheoryAlgo\\NumberTheoryAlgo\\NumberTheoryAlgo\\NumberTheoryAlgo.csproj",
-      "projectName": "NumberTheoryAlgo",
-      "projectPath": "H:\\Basic Programming\\C#NumTheoryAlgo-STL-DS-Algo\\NumberTheoryAlgo\\NumberTheoryAlgo\\NumberTheoryAlgo\\NumberTheoryAlgo.csproj",
+      "projectUniqueName": "H:\\Basic Programming\\C#NumTheoryAlgo-STL-DS-Algo\\NumberTheoryAlgo\\NumberTheoryAlgo\\SearchingSortingModule\\SearchingSortingModule.csproj",
+      "projectName": "SearchingSortingModule",
+      "projectPath": "H:\\Basic Programming\\C#NumTheoryAlgo-STL-DS-Algo\\NumberTheoryAlgo\\NumberTheoryAlgo\\SearchingSortingModule\\SearchingSortingModule.csproj",
       "packagesPath": "C:\\Users\\Sohag\\.nuget\\packages\\",
-      "outputPath": "H:\\Basic Programming\\C#NumTheoryAlgo-STL-DS-Algo\\NumberTheoryAlgo\\NumberTheoryAlgo\\NumberTheoryAlgo\\obj\\",
+      "outputPath": "H:\\Basic Programming\\C#NumTheoryAlgo-STL-DS-Algo\\NumberTheoryAlgo\\NumberTheoryAlgo\\SearchingSortingModule\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sohag\\AppData\\Roaming\\NuGet\\NuGet.Config",

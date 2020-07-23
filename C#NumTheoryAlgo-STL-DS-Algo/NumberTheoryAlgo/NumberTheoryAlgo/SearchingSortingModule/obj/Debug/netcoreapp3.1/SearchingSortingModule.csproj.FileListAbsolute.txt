@@ -1,0 +1,13 @@
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\SearchingSortingModule\bin\Debug\netcoreapp3.1\SearchingSortingModule.exe
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\SearchingSortingModule\bin\Debug\netcoreapp3.1\SearchingSortingModule.deps.json
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\SearchingSortingModule\bin\Debug\netcoreapp3.1\SearchingSortingModule.runtimeconfig.json
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\SearchingSortingModule\bin\Debug\netcoreapp3.1\SearchingSortingModule.runtimeconfig.dev.json
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\SearchingSortingModule\bin\Debug\netcoreapp3.1\SearchingSortingModule.dll
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\SearchingSortingModule\bin\Debug\netcoreapp3.1\SearchingSortingModule.pdb
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\SearchingSortingModule\obj\Debug\netcoreapp3.1\SearchingSortingModule.csprojAssemblyReference.cache
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\SearchingSortingModule\obj\Debug\netcoreapp3.1\SearchingSortingModule.AssemblyInfoInputs.cache
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\SearchingSortingModule\obj\Debug\netcoreapp3.1\SearchingSortingModule.AssemblyInfo.cs
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\SearchingSortingModule\obj\Debug\netcoreapp3.1\SearchingSortingModule.csproj.CoreCompileInputs.cache
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\SearchingSortingModule\obj\Debug\netcoreapp3.1\SearchingSortingModule.dll
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\SearchingSortingModule\obj\Debug\netcoreapp3.1\SearchingSortingModule.pdb
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\SearchingSortingModule\obj\Debug\netcoreapp3.1\SearchingSortingModule.genruntimeconfig.cache
