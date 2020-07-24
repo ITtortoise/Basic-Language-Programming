@@ -1,0 +1,4 @@
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\RecursionProblemsSolve\obj\Debug\netcoreapp3.1\RecursionProblemsSolve.csprojAssemblyReference.cache
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\RecursionProblemsSolve\obj\Debug\netcoreapp3.1\RecursionProblemsSolve.AssemblyInfoInputs.cache
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\RecursionProblemsSolve\obj\Debug\netcoreapp3.1\RecursionProblemsSolve.AssemblyInfo.cs
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\RecursionProblemsSolve\obj\Debug\netcoreapp3.1\RecursionProblemsSolve.csproj.CoreCompileInputs.cache
