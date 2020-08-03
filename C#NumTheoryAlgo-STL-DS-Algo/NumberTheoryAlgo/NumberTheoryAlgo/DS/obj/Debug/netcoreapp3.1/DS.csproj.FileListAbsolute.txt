@@ -1,0 +1,4 @@
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\DS\obj\Debug\netcoreapp3.1\DS.csprojAssemblyReference.cache
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\DS\obj\Debug\netcoreapp3.1\DS.AssemblyInfoInputs.cache
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\DS\obj\Debug\netcoreapp3.1\DS.AssemblyInfo.cs
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\DS\obj\Debug\netcoreapp3.1\DS.csproj.CoreCompileInputs.cache

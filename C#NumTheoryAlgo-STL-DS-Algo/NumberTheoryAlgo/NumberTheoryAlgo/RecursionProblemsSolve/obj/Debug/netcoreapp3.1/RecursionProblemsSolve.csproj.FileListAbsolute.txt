@@ -1,4 +1,13 @@
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\RecursionProblemsSolve\bin\Debug\netcoreapp3.1\RecursionProblemsSolve.exe
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\RecursionProblemsSolve\bin\Debug\netcoreapp3.1\RecursionProblemsSolve.deps.json
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\RecursionProblemsSolve\bin\Debug\netcoreapp3.1\RecursionProblemsSolve.runtimeconfig.json
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\RecursionProblemsSolve\bin\Debug\netcoreapp3.1\RecursionProblemsSolve.runtimeconfig.dev.json
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\RecursionProblemsSolve\bin\Debug\netcoreapp3.1\RecursionProblemsSolve.dll
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\RecursionProblemsSolve\bin\Debug\netcoreapp3.1\RecursionProblemsSolve.pdb
 H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\RecursionProblemsSolve\obj\Debug\netcoreapp3.1\RecursionProblemsSolve.csprojAssemblyReference.cache
 H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\RecursionProblemsSolve\obj\Debug\netcoreapp3.1\RecursionProblemsSolve.AssemblyInfoInputs.cache
 H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\RecursionProblemsSolve\obj\Debug\netcoreapp3.1\RecursionProblemsSolve.AssemblyInfo.cs
 H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\RecursionProblemsSolve\obj\Debug\netcoreapp3.1\RecursionProblemsSolve.csproj.CoreCompileInputs.cache
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\RecursionProblemsSolve\obj\Debug\netcoreapp3.1\RecursionProblemsSolve.dll
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\RecursionProblemsSolve\obj\Debug\netcoreapp3.1\RecursionProblemsSolve.pdb
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\RecursionProblemsSolve\obj\Debug\netcoreapp3.1\RecursionProblemsSolve.genruntimeconfig.cache

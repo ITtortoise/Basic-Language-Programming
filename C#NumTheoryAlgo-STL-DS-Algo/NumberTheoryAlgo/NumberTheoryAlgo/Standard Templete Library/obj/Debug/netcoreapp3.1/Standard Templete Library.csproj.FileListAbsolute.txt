@@ -1,0 +1,12 @@
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\Standard Templete Library\bin\Debug\netcoreapp3.1\Standard Templete Library.exe
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\Standard Templete Library\bin\Debug\netcoreapp3.1\Standard Templete Library.deps.json
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\Standard Templete Library\bin\Debug\netcoreapp3.1\Standard Templete Library.runtimeconfig.json
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\Standard Templete Library\bin\Debug\netcoreapp3.1\Standard Templete Library.runtimeconfig.dev.json
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\Standard Templete Library\bin\Debug\netcoreapp3.1\Standard Templete Library.dll
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\Standard Templete Library\bin\Debug\netcoreapp3.1\Standard Templete Library.pdb
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\Standard Templete Library\obj\Debug\netcoreapp3.1\Standard Templete Library.AssemblyInfoInputs.cache
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\Standard Templete Library\obj\Debug\netcoreapp3.1\Standard Templete Library.AssemblyInfo.cs
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\Standard Templete Library\obj\Debug\netcoreapp3.1\Standard Templete Library.csproj.CoreCompileInputs.cache
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\Standard Templete Library\obj\Debug\netcoreapp3.1\Standard Templete Library.dll
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\Standard Templete Library\obj\Debug\netcoreapp3.1\Standard Templete Library.pdb
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\Standard Templete Library\obj\Debug\netcoreapp3.1\Standard Templete Library.genruntimeconfig.cache
