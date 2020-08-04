@@ -4,7 +4,6 @@ H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAl
 H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\NumberTheoryAlgo\bin\Debug\netcoreapp3.1\NumberTheoryAlgo.runtimeconfig.dev.json
 H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\NumberTheoryAlgo\bin\Debug\netcoreapp3.1\NumberTheoryAlgo.dll
 H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\NumberTheoryAlgo\bin\Debug\netcoreapp3.1\NumberTheoryAlgo.pdb
-H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\NumberTheoryAlgo\obj\Debug\netcoreapp3.1\NumberTheoryAlgo.csprojAssemblyReference.cache
 H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\NumberTheoryAlgo\obj\Debug\netcoreapp3.1\NumberTheoryAlgo.AssemblyInfoInputs.cache
 H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\NumberTheoryAlgo\obj\Debug\netcoreapp3.1\NumberTheoryAlgo.AssemblyInfo.cs
 H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\NumberTheoryAlgo\obj\Debug\netcoreapp3.1\NumberTheoryAlgo.csproj.CoreCompileInputs.cache

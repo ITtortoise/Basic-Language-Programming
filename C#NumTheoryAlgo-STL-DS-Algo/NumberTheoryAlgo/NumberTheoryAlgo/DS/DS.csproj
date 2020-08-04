@@ -3,7 +3,11 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>DS.Program</StartupObject>
+    <StartupObject>DS.Priority_Queue_Class</StartupObject>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Nito.Collections.Deque" Version="1.0.4" />
+  </ItemGroup>
 
 </Project>

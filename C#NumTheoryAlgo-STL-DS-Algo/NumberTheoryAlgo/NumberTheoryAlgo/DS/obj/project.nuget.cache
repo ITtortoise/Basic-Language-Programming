@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "PdH9DjJMJR9j7I/hwC/Ocb1ScFPoaP9I9kRU9lvtlfqBOyzjsmoH4uMIMiQ7rxth5Nbu2oFyfpADt88gdmzIEQ==",
+  "dgSpecHash": "7RjVa+C0PNsY8K3uV0a12EN3dTvD04/48oR0dMqW+xFZ2V9qfPMbiHYDZ4Kx9esz/PmHLa7LavZOzelEfvwr5w==",
   "success": true,
   "projectFilePath": "H:\\Basic Programming\\C#NumTheoryAlgo-STL-DS-Algo\\NumberTheoryAlgo\\NumberTheoryAlgo\\DS\\DS.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Sohag\\.nuget\\packages\\nito.collections.deque\\1.0.4\\nito.collections.deque.1.0.4.nupkg.sha512"
+  ],
   "logs": []
 }
