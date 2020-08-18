@@ -13,29 +13,40 @@ namespace SearchingSortingModule
             int m = int.Parse(nm[1]);
             var line = Console.ReadLine().Split(' ');
             var L = new List<int>();
-            for(int i = 0; i <n; i++)
-                L.Add(int.Parse(line[i]));
+            for(int k = 0;k <n; k++)
+                L.Add(int.Parse(line[k]));
             var line2 = Console.ReadLine().Split(' ');
             var R = new List<int>();
-            for (int i = 0; i < m; i++)
-                R.Add(int.Parse(line2[i]));
+            for (int k = 0; k < m; k++)
+                R.Add(int.Parse(line2[k]));
+            
             var A = new List<int>();
             var nL = L.Count;int  nR = R.Count;
-             int  x= 0,y=0;
-            while(x < nL && y < nR)
+            int i = 0, j=0;
+            while(i < nL && j < nR)
             {
-                if (L[x] <= R[y])
+                if (L[i] <= R[j])
                 {
-                    A.Add(L[x]);
-                    x++;
+                    A.Add(L[i]);
+                    i++;
                 }
                 else
                 {
-                    A.Add(R[y]);
-                    y++;
+                    A.Add(R[j]);
+                    j++;
                 }
             }
-            for(int i=0;i<A.Count;i++)
+            while (i < nL)
+            {
+                A.Add(L[i]);
+                i++;
+            }
+            while (j < nR)
+            {
+                A.Add(R[j]);
+                j++;
+            }
+            for (i=0;i<A.Count;i++)
                 Console.Write(A[i]+" ");
             
             

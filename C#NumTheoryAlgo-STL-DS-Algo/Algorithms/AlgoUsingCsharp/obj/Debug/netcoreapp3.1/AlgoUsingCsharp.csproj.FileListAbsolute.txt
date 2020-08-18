@@ -9,3 +9,6 @@ H:\Basic Programming\CSharpDSalgo\AlgoUsingCsharp\obj\Debug\netcoreapp3.1\AlgoUs
 H:\Basic Programming\CSharpDSalgo\AlgoUsingCsharp\obj\Debug\netcoreapp3.1\AlgoUsingCsharp.AssemblyInfo.cs
 H:\Basic Programming\CSharpDSalgo\AlgoUsingCsharp\obj\Debug\netcoreapp3.1\AlgoUsingCsharp.dll
 H:\Basic Programming\CSharpDSalgo\AlgoUsingCsharp\obj\Debug\netcoreapp3.1\AlgoUsingCsharp.pdb
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\Algorithms\AlgoUsingCsharp\obj\Debug\netcoreapp3.1\AlgoUsingCsharp.AssemblyInfoInputs.cache
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\Algorithms\AlgoUsingCsharp\obj\Debug\netcoreapp3.1\AlgoUsingCsharp.AssemblyInfo.cs
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\Algorithms\AlgoUsingCsharp\obj\Debug\netcoreapp3.1\AlgoUsingCsharp.csproj.CoreCompileInputs.cache

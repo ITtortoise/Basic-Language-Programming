@@ -8,23 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\ITtortoise\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Sohag\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Basic Programming\\CSharpDSalgo\\AlgoUsingCsharp\\AlgoUsingCsharp.csproj",
+      "projectUniqueName": "H:\\Basic Programming\\C#NumTheoryAlgo-STL-DS-Algo\\Algorithms\\AlgoUsingCsharp\\AlgoUsingCsharp.csproj",
       "projectName": "AlgoUsingCsharp",
-      "projectPath": "H:\\Basic Programming\\CSharpDSalgo\\AlgoUsingCsharp\\AlgoUsingCsharp.csproj",
-      "packagesPath": "C:\\Users\\ITtortoise\\.nuget\\packages\\",
-      "outputPath": "H:\\Basic Programming\\CSharpDSalgo\\AlgoUsingCsharp\\obj\\",
+      "projectPath": "H:\\Basic Programming\\C#NumTheoryAlgo-STL-DS-Algo\\Algorithms\\AlgoUsingCsharp\\AlgoUsingCsharp.csproj",
+      "packagesPath": "C:\\Users\\Sohag\\.nuget\\packages\\",
+      "outputPath": "H:\\Basic Programming\\C#NumTheoryAlgo-STL-DS-Algo\\Algorithms\\AlgoUsingCsharp\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ITtortoise\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Sohag\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -62,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

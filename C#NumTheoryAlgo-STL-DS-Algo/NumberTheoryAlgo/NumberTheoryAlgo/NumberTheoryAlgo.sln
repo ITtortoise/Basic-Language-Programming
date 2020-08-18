@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Standard Templete Library",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlgoUsingCsharp", "..\..\Algorithms\AlgoUsingCsharp\AlgoUsingCsharp.csproj", "{53A76AF6-DDB1-4530-97B2-F64DC7845C76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "OOP\OOP.csproj", "{D7320580-6A64-448D-A0EA-813CA1B7D539}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP", "OOP\OOP.csproj", "{D7320580-6A64-448D-A0EA-813CA1B7D539}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemSolvingModule", "ProblemSolvingModule\ProblemSolvingModule.csproj", "{38D7CC6D-C1F9-48FC-8132-CBFC1717F0CB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{D7320580-6A64-448D-A0EA-813CA1B7D539}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7320580-6A64-448D-A0EA-813CA1B7D539}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7320580-6A64-448D-A0EA-813CA1B7D539}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38D7CC6D-C1F9-48FC-8132-CBFC1717F0CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38D7CC6D-C1F9-48FC-8132-CBFC1717F0CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38D7CC6D-C1F9-48FC-8132-CBFC1717F0CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38D7CC6D-C1F9-48FC-8132-CBFC1717F0CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
