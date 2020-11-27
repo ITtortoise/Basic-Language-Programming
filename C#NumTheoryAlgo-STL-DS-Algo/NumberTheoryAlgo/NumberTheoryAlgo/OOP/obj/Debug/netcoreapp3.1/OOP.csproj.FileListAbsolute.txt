@@ -1,0 +1,12 @@
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\OOP\bin\Debug\netcoreapp3.1\OOP.exe
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\OOP\bin\Debug\netcoreapp3.1\OOP.deps.json
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.json
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.dev.json
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\OOP\bin\Debug\netcoreapp3.1\OOP.dll
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\OOP\bin\Debug\netcoreapp3.1\OOP.pdb
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfoInputs.cache
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfo.cs
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\OOP\obj\Debug\netcoreapp3.1\OOP.csproj.CoreCompileInputs.cache
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\OOP\obj\Debug\netcoreapp3.1\OOP.dll
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\OOP\obj\Debug\netcoreapp3.1\OOP.pdb
+H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\OOP\obj\Debug\netcoreapp3.1\OOP.genruntimeconfig.cache
