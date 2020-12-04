@@ -1,0 +1,13 @@
+J:\Basic Programming\OOD\SRPDemo\ISPDemo\bin\Debug\netcoreapp3.1\ISPDemo.exe
+J:\Basic Programming\OOD\SRPDemo\ISPDemo\bin\Debug\netcoreapp3.1\ISPDemo.deps.json
+J:\Basic Programming\OOD\SRPDemo\ISPDemo\bin\Debug\netcoreapp3.1\ISPDemo.runtimeconfig.json
+J:\Basic Programming\OOD\SRPDemo\ISPDemo\bin\Debug\netcoreapp3.1\ISPDemo.runtimeconfig.dev.json
+J:\Basic Programming\OOD\SRPDemo\ISPDemo\bin\Debug\netcoreapp3.1\ISPDemo.dll
+J:\Basic Programming\OOD\SRPDemo\ISPDemo\bin\Debug\netcoreapp3.1\ISPDemo.pdb
+J:\Basic Programming\OOD\SRPDemo\ISPDemo\obj\Debug\netcoreapp3.1\ISPDemo.csprojAssemblyReference.cache
+J:\Basic Programming\OOD\SRPDemo\ISPDemo\obj\Debug\netcoreapp3.1\ISPDemo.AssemblyInfoInputs.cache
+J:\Basic Programming\OOD\SRPDemo\ISPDemo\obj\Debug\netcoreapp3.1\ISPDemo.AssemblyInfo.cs
+J:\Basic Programming\OOD\SRPDemo\ISPDemo\obj\Debug\netcoreapp3.1\ISPDemo.csproj.CoreCompileInputs.cache
+J:\Basic Programming\OOD\SRPDemo\ISPDemo\obj\Debug\netcoreapp3.1\ISPDemo.dll
+J:\Basic Programming\OOD\SRPDemo\ISPDemo\obj\Debug\netcoreapp3.1\ISPDemo.pdb
+J:\Basic Programming\OOD\SRPDemo\ISPDemo\obj\Debug\netcoreapp3.1\ISPDemo.genruntimeconfig.cache
