@@ -6,23 +6,21 @@ namespace Standard_Templete_Library
 {
     public class Pair_Class
     {
-        static int Compare1(KeyValuePair<int, string> a, KeyValuePair<int, string> b)
+        static int Compare(KeyValuePair<int, int> a, KeyValuePair<int, int> b)
         {
+            if (a.Key == b.Key)
+                return a.Value.CompareTo(b.Value);
             return a.Key.CompareTo(b.Key);
-        }
-        static int Compare2(KeyValuePair<int, string> a, KeyValuePair<int, string> b)
-        {
-            return a.Value.CompareTo(b.Value);
         }
         public static void Main(string[] args)
         {
-            var list = new List<KeyValuePair<int, string>>();
-                list.Add(new KeyValuePair<int, string>(3, "three"));
-                list.Add(new KeyValuePair<int, string>(4, "Four"));
-                list.Add(new KeyValuePair<int, string>(1, "one"));
-                list.Add(new KeyValuePair<int, string>(2, "two"));
+            var list = new List<KeyValuePair<int, int>>();
+                list.Add(new KeyValuePair<int, int>(1,3));
+                list.Add(new KeyValuePair<int, int>(1,2));
+                list.Add(new KeyValuePair<int, int>(2,5));
+                list.Add(new KeyValuePair<int, int>(2,6));
                 
-            list.Sort(Compare1);
+            list.Sort(Compare);
 
             
             foreach (var item in list)
@@ -30,12 +28,10 @@ namespace Standard_Templete_Library
                 Console.WriteLine($"{item.Key} : {item.Value}");
             }
 
-            list.Sort(Compare2);
+            Console.WriteLine();
+            //list.Sort(Compare2);
 
-            foreach (var item in list)
-            {
-                Console.WriteLine($"{item.Key} : {item.Value}");
-            }
+           
         }
 
        

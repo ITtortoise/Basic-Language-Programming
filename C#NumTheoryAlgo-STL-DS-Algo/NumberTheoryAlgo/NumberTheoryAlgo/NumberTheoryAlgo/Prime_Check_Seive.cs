@@ -9,7 +9,8 @@ namespace NumberTheoryAlgo
         public static void Main(string[] args)
         {
             var mylist = new List<int>(1000);
-            for (int i = 0; i < 1000; i++) mylist.Add(0);
+            for (int i = 0; i < 1000; i++)
+                mylist.Add(0);
 
             for (int i = 2; i <= Math.Sqrt(1000); i++)
             {

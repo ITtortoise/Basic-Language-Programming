@@ -8,49 +8,21 @@ namespace SearchingSortingModule
     {
         static void Main(string[] args)
         {
-            var nm =Console.ReadLine().Split(' ');
-            int n = int.Parse(nm[0]);
-            int m = int.Parse(nm[1]);
-            var line = Console.ReadLine().Split(' ');
-            var L = new List<int>();
-            for(int k = 0;k <n; k++)
-                L.Add(int.Parse(line[k]));
-            var line2 = Console.ReadLine().Split(' ');
-            var R = new List<int>();
-            for (int k = 0; k < m; k++)
-                R.Add(int.Parse(line2[k]));
-            
-            var A = new List<int>();
-            var nL = L.Count;int  nR = R.Count;
-            int i = 0, j=0;
-            while(i < nL && j < nR)
+            var arr1 = new int[5]{ 2, 5, 7, 10, 12 };
+            var arr2 = new int[6] { 1, 3, 13,17,18,19 };
+            var arr3 = new int[8];
+            int i = 0, j = 0, k = 0;
+            while (i < 5 && j < 6)
             {
-                if (L[i] <= R[j])
-                {
-                    A.Add(L[i]);
-                    i++;
-                }
+                if (arr1[i] < arr2[j])
+                    arr3[k++] = arr1[i++];
                 else
-                {
-                    A.Add(R[j]);
-                    j++;
-                }
+                    arr3[k++] = arr2[j++];
             }
-            while (i < nL)
-            {
-                A.Add(L[i]);
-                i++;
-            }
-            while (j < nR)
-            {
-                A.Add(R[j]);
-                j++;
-            }
-            for (i=0;i<A.Count;i++)
-                Console.Write(A[i]+" ");
-            
-            
-            
+            while (i < 5)
+                arr3[k++] = arr1[i++];
+            while (j < 6)
+                arr3[k++] = arr2[j++];
         }
     }
 }

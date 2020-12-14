@@ -36,8 +36,8 @@ namespace Standard_Templete_Library
             int f = String.Compare(c, d);
             int g = String.Compare(d, c, true);
 
-            Console.WriteLine(x);
-            Console.WriteLine(y);
+            Console.WriteLine(f);
+            Console.WriteLine(g);
             Console.WriteLine("//IndexOf");
             string srt = " ShohagShadaf ";
             Console.WriteLine(srt.IndexOf('h'));

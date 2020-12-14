@@ -11,7 +11,7 @@ namespace Standard_Templete_Library
         {
             if(x.StudentAge == y.StudentAge)
             {
-                return y.StudentMarks.CompareTo(x.StudentMarks);
+                return x.StudentMarks.CompareTo(y.StudentMarks);
             }
             return x.StudentAge.CompareTo(y.StudentAge);
         }

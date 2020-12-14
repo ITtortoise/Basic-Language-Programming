@@ -36,19 +36,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sohag\\.nuget\\packages\\": {}
+    "C:\\Users\\shohag\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Basic Programming\\C#NumTheoryAlgo-STL-DS-Algo\\NumberTheoryAlgo\\NumberTheoryAlgo\\DS\\DS.csproj",
+      "projectUniqueName": "J:\\Basic Programming\\C#NumTheoryAlgo-STL-DS-Algo\\NumberTheoryAlgo\\NumberTheoryAlgo\\DS\\DS.csproj",
       "projectName": "DS",
-      "projectPath": "H:\\Basic Programming\\C#NumTheoryAlgo-STL-DS-Algo\\NumberTheoryAlgo\\NumberTheoryAlgo\\DS\\DS.csproj",
-      "packagesPath": "C:\\Users\\Sohag\\.nuget\\packages\\",
-      "outputPath": "H:\\Basic Programming\\C#NumTheoryAlgo-STL-DS-Algo\\NumberTheoryAlgo\\NumberTheoryAlgo\\DS\\obj\\",
+      "projectPath": "J:\\Basic Programming\\C#NumTheoryAlgo-STL-DS-Algo\\NumberTheoryAlgo\\NumberTheoryAlgo\\DS\\DS.csproj",
+      "packagesPath": "C:\\Users\\shohag\\.nuget\\packages\\",
+      "outputPath": "J:\\Basic Programming\\C#NumTheoryAlgo-STL-DS-Algo\\NumberTheoryAlgo\\NumberTheoryAlgo\\DS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Sohag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\shohag\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,6 +60,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -71,6 +72,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Nito.Collections.Deque": {
             "target": "Package",
@@ -92,7 +94,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

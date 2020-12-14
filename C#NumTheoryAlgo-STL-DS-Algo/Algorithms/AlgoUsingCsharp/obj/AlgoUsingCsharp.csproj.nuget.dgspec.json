@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Basic Programming\\C#NumTheoryAlgo-STL-DS-Algo\\Algorithms\\AlgoUsingCsharp\\AlgoUsingCsharp.csproj": {}
+    "J:\\Basic Programming\\C#NumTheoryAlgo-STL-DS-Algo\\Algorithms\\AlgoUsingCsharp\\AlgoUsingCsharp.csproj": {}
   },
   "projects": {
-    "H:\\Basic Programming\\C#NumTheoryAlgo-STL-DS-Algo\\Algorithms\\AlgoUsingCsharp\\AlgoUsingCsharp.csproj": {
+    "J:\\Basic Programming\\C#NumTheoryAlgo-STL-DS-Algo\\Algorithms\\AlgoUsingCsharp\\AlgoUsingCsharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Basic Programming\\C#NumTheoryAlgo-STL-DS-Algo\\Algorithms\\AlgoUsingCsharp\\AlgoUsingCsharp.csproj",
+        "projectUniqueName": "J:\\Basic Programming\\C#NumTheoryAlgo-STL-DS-Algo\\Algorithms\\AlgoUsingCsharp\\AlgoUsingCsharp.csproj",
         "projectName": "AlgoUsingCsharp",
-        "projectPath": "H:\\Basic Programming\\C#NumTheoryAlgo-STL-DS-Algo\\Algorithms\\AlgoUsingCsharp\\AlgoUsingCsharp.csproj",
-        "packagesPath": "C:\\Users\\Sohag\\.nuget\\packages\\",
-        "outputPath": "H:\\Basic Programming\\C#NumTheoryAlgo-STL-DS-Algo\\Algorithms\\AlgoUsingCsharp\\obj\\",
+        "projectPath": "J:\\Basic Programming\\C#NumTheoryAlgo-STL-DS-Algo\\Algorithms\\AlgoUsingCsharp\\AlgoUsingCsharp.csproj",
+        "packagesPath": "C:\\Users\\shohag\\.nuget\\packages\\",
+        "outputPath": "J:\\Basic Programming\\C#NumTheoryAlgo-STL-DS-Algo\\Algorithms\\AlgoUsingCsharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Sohag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\shohag\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

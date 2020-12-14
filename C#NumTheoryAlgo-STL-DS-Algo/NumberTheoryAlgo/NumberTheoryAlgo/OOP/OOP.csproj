@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>OOP.Method_Overriding</StartupObject>
+    <StartupObject>OOP.Abstact_Class</StartupObject>
   </PropertyGroup>
 
 </Project>

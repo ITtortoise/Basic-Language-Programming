@@ -1,0 +1,13 @@
+J:\Basic Programming\OOD\SOLID\SRPDemo\bin\Debug\netcoreapp3.1\SRPDemo.exe
+J:\Basic Programming\OOD\SOLID\SRPDemo\bin\Debug\netcoreapp3.1\SRPDemo.deps.json
+J:\Basic Programming\OOD\SOLID\SRPDemo\bin\Debug\netcoreapp3.1\SRPDemo.runtimeconfig.json
+J:\Basic Programming\OOD\SOLID\SRPDemo\bin\Debug\netcoreapp3.1\SRPDemo.runtimeconfig.dev.json
+J:\Basic Programming\OOD\SOLID\SRPDemo\bin\Debug\netcoreapp3.1\SRPDemo.dll
+J:\Basic Programming\OOD\SOLID\SRPDemo\bin\Debug\netcoreapp3.1\SRPDemo.pdb
+J:\Basic Programming\OOD\SOLID\SRPDemo\obj\Debug\netcoreapp3.1\SRPDemo.csprojAssemblyReference.cache
+J:\Basic Programming\OOD\SOLID\SRPDemo\obj\Debug\netcoreapp3.1\SRPDemo.AssemblyInfoInputs.cache
+J:\Basic Programming\OOD\SOLID\SRPDemo\obj\Debug\netcoreapp3.1\SRPDemo.AssemblyInfo.cs
+J:\Basic Programming\OOD\SOLID\SRPDemo\obj\Debug\netcoreapp3.1\SRPDemo.csproj.CoreCompileInputs.cache
+J:\Basic Programming\OOD\SOLID\SRPDemo\obj\Debug\netcoreapp3.1\SRPDemo.dll
+J:\Basic Programming\OOD\SOLID\SRPDemo\obj\Debug\netcoreapp3.1\SRPDemo.pdb
+J:\Basic Programming\OOD\SOLID\SRPDemo\obj\Debug\netcoreapp3.1\SRPDemo.genruntimeconfig.cache

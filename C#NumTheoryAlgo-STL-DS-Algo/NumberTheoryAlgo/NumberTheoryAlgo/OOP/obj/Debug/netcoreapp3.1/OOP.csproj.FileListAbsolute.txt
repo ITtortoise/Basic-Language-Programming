@@ -10,3 +10,16 @@ H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAl
 H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\OOP\obj\Debug\netcoreapp3.1\OOP.dll
 H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\OOP\obj\Debug\netcoreapp3.1\OOP.pdb
 H:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\OOP\obj\Debug\netcoreapp3.1\OOP.genruntimeconfig.cache
+J:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\OOP\bin\Debug\netcoreapp3.1\OOP.exe
+J:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\OOP\bin\Debug\netcoreapp3.1\OOP.deps.json
+J:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.json
+J:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.dev.json
+J:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\OOP\bin\Debug\netcoreapp3.1\OOP.dll
+J:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\OOP\bin\Debug\netcoreapp3.1\OOP.pdb
+J:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\OOP\obj\Debug\netcoreapp3.1\OOP.csprojAssemblyReference.cache
+J:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfoInputs.cache
+J:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfo.cs
+J:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\OOP\obj\Debug\netcoreapp3.1\OOP.csproj.CoreCompileInputs.cache
+J:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\OOP\obj\Debug\netcoreapp3.1\OOP.dll
+J:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\OOP\obj\Debug\netcoreapp3.1\OOP.pdb
+J:\Basic Programming\C#NumTheoryAlgo-STL-DS-Algo\NumberTheoryAlgo\NumberTheoryAlgo\OOP\obj\Debug\netcoreapp3.1\OOP.genruntimeconfig.cache

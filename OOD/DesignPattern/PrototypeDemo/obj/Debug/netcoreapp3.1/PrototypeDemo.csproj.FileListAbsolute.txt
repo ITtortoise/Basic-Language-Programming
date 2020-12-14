@@ -1,0 +1,13 @@
+J:\Basic Programming\OOD\DesignPattern\PrototypeDemo\bin\Debug\netcoreapp3.1\PrototypeDemo.exe
+J:\Basic Programming\OOD\DesignPattern\PrototypeDemo\bin\Debug\netcoreapp3.1\PrototypeDemo.deps.json
+J:\Basic Programming\OOD\DesignPattern\PrototypeDemo\bin\Debug\netcoreapp3.1\PrototypeDemo.runtimeconfig.json
+J:\Basic Programming\OOD\DesignPattern\PrototypeDemo\bin\Debug\netcoreapp3.1\PrototypeDemo.runtimeconfig.dev.json
+J:\Basic Programming\OOD\DesignPattern\PrototypeDemo\bin\Debug\netcoreapp3.1\PrototypeDemo.dll
+J:\Basic Programming\OOD\DesignPattern\PrototypeDemo\bin\Debug\netcoreapp3.1\PrototypeDemo.pdb
+J:\Basic Programming\OOD\DesignPattern\PrototypeDemo\obj\Debug\netcoreapp3.1\PrototypeDemo.csprojAssemblyReference.cache
+J:\Basic Programming\OOD\DesignPattern\PrototypeDemo\obj\Debug\netcoreapp3.1\PrototypeDemo.AssemblyInfoInputs.cache
+J:\Basic Programming\OOD\DesignPattern\PrototypeDemo\obj\Debug\netcoreapp3.1\PrototypeDemo.AssemblyInfo.cs
+J:\Basic Programming\OOD\DesignPattern\PrototypeDemo\obj\Debug\netcoreapp3.1\PrototypeDemo.csproj.CoreCompileInputs.cache
+J:\Basic Programming\OOD\DesignPattern\PrototypeDemo\obj\Debug\netcoreapp3.1\PrototypeDemo.dll
+J:\Basic Programming\OOD\DesignPattern\PrototypeDemo\obj\Debug\netcoreapp3.1\PrototypeDemo.pdb
+J:\Basic Programming\OOD\DesignPattern\PrototypeDemo\obj\Debug\netcoreapp3.1\PrototypeDemo.genruntimeconfig.cache

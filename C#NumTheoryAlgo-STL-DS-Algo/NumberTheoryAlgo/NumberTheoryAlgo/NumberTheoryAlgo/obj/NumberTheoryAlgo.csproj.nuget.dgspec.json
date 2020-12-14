@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Basic Programming\\C#NumTheoryAlgo-STL-DS-Algo\\NumberTheoryAlgo\\NumberTheoryAlgo\\NumberTheoryAlgo\\NumberTheoryAlgo.csproj": {}
+    "J:\\Basic Programming\\C#NumTheoryAlgo-STL-DS-Algo\\NumberTheoryAlgo\\NumberTheoryAlgo\\NumberTheoryAlgo\\NumberTheoryAlgo.csproj": {}
   },
   "projects": {
-    "H:\\Basic Programming\\C#NumTheoryAlgo-STL-DS-Algo\\NumberTheoryAlgo\\NumberTheoryAlgo\\NumberTheoryAlgo\\NumberTheoryAlgo.csproj": {
+    "J:\\Basic Programming\\C#NumTheoryAlgo-STL-DS-Algo\\NumberTheoryAlgo\\NumberTheoryAlgo\\NumberTheoryAlgo\\NumberTheoryAlgo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Basic Programming\\C#NumTheoryAlgo-STL-DS-Algo\\NumberTheoryAlgo\\NumberTheoryAlgo\\NumberTheoryAlgo\\NumberTheoryAlgo.csproj",
+        "projectUniqueName": "J:\\Basic Programming\\C#NumTheoryAlgo-STL-DS-Algo\\NumberTheoryAlgo\\NumberTheoryAlgo\\NumberTheoryAlgo\\NumberTheoryAlgo.csproj",
         "projectName": "NumberTheoryAlgo",
-        "projectPath": "H:\\Basic Programming\\C#NumTheoryAlgo-STL-DS-Algo\\NumberTheoryAlgo\\NumberTheoryAlgo\\NumberTheoryAlgo\\NumberTheoryAlgo.csproj",
-        "packagesPath": "C:\\Users\\Sohag\\.nuget\\packages\\",
-        "outputPath": "H:\\Basic Programming\\C#NumTheoryAlgo-STL-DS-Algo\\NumberTheoryAlgo\\NumberTheoryAlgo\\NumberTheoryAlgo\\obj\\",
+        "projectPath": "J:\\Basic Programming\\C#NumTheoryAlgo-STL-DS-Algo\\NumberTheoryAlgo\\NumberTheoryAlgo\\NumberTheoryAlgo\\NumberTheoryAlgo.csproj",
+        "packagesPath": "C:\\Users\\shohag\\.nuget\\packages\\",
+        "outputPath": "J:\\Basic Programming\\C#NumTheoryAlgo-STL-DS-Algo\\NumberTheoryAlgo\\NumberTheoryAlgo\\NumberTheoryAlgo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Sohag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\shohag\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,13 @@
+J:\Basic Programming\OOD\DesignPattern\SingletonDemo\bin\Debug\netcoreapp3.1\SingletonDemo.exe
+J:\Basic Programming\OOD\DesignPattern\SingletonDemo\bin\Debug\netcoreapp3.1\SingletonDemo.deps.json
+J:\Basic Programming\OOD\DesignPattern\SingletonDemo\bin\Debug\netcoreapp3.1\SingletonDemo.runtimeconfig.json
+J:\Basic Programming\OOD\DesignPattern\SingletonDemo\bin\Debug\netcoreapp3.1\SingletonDemo.runtimeconfig.dev.json
+J:\Basic Programming\OOD\DesignPattern\SingletonDemo\bin\Debug\netcoreapp3.1\SingletonDemo.dll
+J:\Basic Programming\OOD\DesignPattern\SingletonDemo\bin\Debug\netcoreapp3.1\SingletonDemo.pdb
+J:\Basic Programming\OOD\DesignPattern\SingletonDemo\obj\Debug\netcoreapp3.1\SingletonDemo.csprojAssemblyReference.cache
+J:\Basic Programming\OOD\DesignPattern\SingletonDemo\obj\Debug\netcoreapp3.1\SingletonDemo.AssemblyInfoInputs.cache
+J:\Basic Programming\OOD\DesignPattern\SingletonDemo\obj\Debug\netcoreapp3.1\SingletonDemo.AssemblyInfo.cs
+J:\Basic Programming\OOD\DesignPattern\SingletonDemo\obj\Debug\netcoreapp3.1\SingletonDemo.csproj.CoreCompileInputs.cache
+J:\Basic Programming\OOD\DesignPattern\SingletonDemo\obj\Debug\netcoreapp3.1\SingletonDemo.dll
+J:\Basic Programming\OOD\DesignPattern\SingletonDemo\obj\Debug\netcoreapp3.1\SingletonDemo.pdb
+J:\Basic Programming\OOD\DesignPattern\SingletonDemo\obj\Debug\netcoreapp3.1\SingletonDemo.genruntimeconfig.cache

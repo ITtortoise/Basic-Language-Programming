@@ -8,46 +8,53 @@ namespace Standard_Templete_Library
     {
         public static void Main(string[] args)
         {
-            var list = new List<List<int>>();
-            var sublist = new List<int>();
-            int n = int.Parse(Console.ReadLine());
-            for (int i = 0; i < n; i++)
-            {
-                var line  = Console.ReadLine().Split(' ');
-                for(int j = 0; j < n; j++) 
-                {
-                    var v = int.Parse(line[j]);
-                    sublist.Add(v);
-                }
-                list.Add(sublist);
-            }
+            //var list = new List<List<int>>();
+            //var sublist = new List<int>();
+            //int n = int.Parse(Console.ReadLine());
+            //for (int i = 0; i < n; i++)
+            //{
+            //    for (int j = 0; j < n; j++)
+            //    {
+            //        var v = int.Parse(Console.ReadLine());
+            //        sublist.Add(v);
+            //    }
+            //    list.Add(sublist);
+            //}
+            int[,] arr = new int[3, 4] {
+                   {0, 1, 2, 3} ,   
+                   {4, 5, 6, 7} ,  
+                   {8, 9, 10, 11} 
+                };
             int maxsum = 0, ansx=0, ansy=0;
-            int[] dx = { -1, 0, 0, 1 };
-            int[] dy = { 0, -1, 1, 0 };
-            for (int i = 0; i < n; i++)
+            var dx = new int[4] { -1, 0, 0, 1 };
+            var dy = new int[4] { 0, -1, 1, 0 };
+          
+            for (int i = 0; i < 3; i++)
             {
                
-                for (int j = 0; j < n; j++)
+                for (int j = 0; j < 4; j++)
                 {
                     int sum = 0;
                     for (int k = 0; k < 4; k++)
                     {
                         int nx = i + dx[k];
                         int my = j + dy[k];
-                        if (nx >= 0 && nx < n && my >= 0 && my < n)
+                        if (nx >= 0 && nx < 3 && my >= 0 && my < 4)
                         {
-                             sum = sum + list[nx][my];
-                            if (sum>maxsum)
-                            {
-                                maxsum = Math.Max(sum, maxsum);
-                                 ansx = i;
-                                 ansy = j;
-                            }                            
+                             sum = sum + arr[nx,my];
+                            //if (sum>maxsum)
+                            //{
+                            //    maxsum = Math.Max(sum, maxsum);
+                            //     ansx = i;
+                            //     ansy = j;
+                            //}                            
                         }
+                       
                     }
-                 }                
+                    Console.WriteLine($"index[x:y] {i},{j} sum:{sum}");
+                }                
             }
-            Console.WriteLine($"Maximum value {maxsum},index[x:y] {ansx}{ansy}");
+           
         }
     }
 }
