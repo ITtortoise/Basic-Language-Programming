@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0DeEtnOUFEwuilPj5d+/oYPALdtU9QMw8rq9/qF1b338aMjXkwkBo7zoly6c1BQqokGPFrC85WNtzxc2WSiCOQ==",
+  "dgSpecHash": "E6x2nsdHnHRo+Yh6PLcZQhWqXY+45rbz0J49N709rVQ4PHnm0xybMeQw8kyuUeRH2PWJCubRzyaBaPU5o+uzUw==",
   "success": true,
-  "projectFilePath": "J:\\Basic Programming\\OOD\\SOLID\\OCPDemo\\OCPDemo.csproj",
+  "projectFilePath": "J:\\Basic Programming\\C#JobQuery\\OOD\\SOLID\\OCPDemo\\OCPDemo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

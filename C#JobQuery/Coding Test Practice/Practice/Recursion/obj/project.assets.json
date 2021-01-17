@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "J:\\Basic Programming\\Coding Test Practice\\Practice\\Recursion\\Recursion.csproj",
+      "projectUniqueName": "J:\\Basic Programming\\C#JobQuery\\Coding Test Practice\\Practice\\Recursion\\Recursion.csproj",
       "projectName": "Recursion",
-      "projectPath": "J:\\Basic Programming\\Coding Test Practice\\Practice\\Recursion\\Recursion.csproj",
+      "projectPath": "J:\\Basic Programming\\C#JobQuery\\Coding Test Practice\\Practice\\Recursion\\Recursion.csproj",
       "packagesPath": "C:\\Users\\shohag\\.nuget\\packages\\",
-      "outputPath": "J:\\Basic Programming\\Coding Test Practice\\Practice\\Recursion\\obj\\",
+      "outputPath": "J:\\Basic Programming\\C#JobQuery\\Coding Test Practice\\Practice\\Recursion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shohag\\AppData\\Roaming\\NuGet\\NuGet.Config",

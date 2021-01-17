@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "J:\\Basic Programming\\C#NumTheoryAlgo-STL-DS-Algo\\NumberTheoryAlgo\\NumberTheoryAlgo\\ProblemSolvingModule\\ProblemSolvingModule.csproj": {}
+    "J:\\Basic Programming\\C#JobQuery\\C#NumTheoryAlgo-STL-DS-Algo\\NumberTheoryAlgo\\NumberTheoryAlgo\\ProblemSolvingModule\\ProblemSolvingModule.csproj": {}
   },
   "projects": {
-    "J:\\Basic Programming\\C#NumTheoryAlgo-STL-DS-Algo\\NumberTheoryAlgo\\NumberTheoryAlgo\\ProblemSolvingModule\\ProblemSolvingModule.csproj": {
+    "J:\\Basic Programming\\C#JobQuery\\C#NumTheoryAlgo-STL-DS-Algo\\NumberTheoryAlgo\\NumberTheoryAlgo\\ProblemSolvingModule\\ProblemSolvingModule.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "J:\\Basic Programming\\C#NumTheoryAlgo-STL-DS-Algo\\NumberTheoryAlgo\\NumberTheoryAlgo\\ProblemSolvingModule\\ProblemSolvingModule.csproj",
+        "projectUniqueName": "J:\\Basic Programming\\C#JobQuery\\C#NumTheoryAlgo-STL-DS-Algo\\NumberTheoryAlgo\\NumberTheoryAlgo\\ProblemSolvingModule\\ProblemSolvingModule.csproj",
         "projectName": "ProblemSolvingModule",
-        "projectPath": "J:\\Basic Programming\\C#NumTheoryAlgo-STL-DS-Algo\\NumberTheoryAlgo\\NumberTheoryAlgo\\ProblemSolvingModule\\ProblemSolvingModule.csproj",
+        "projectPath": "J:\\Basic Programming\\C#JobQuery\\C#NumTheoryAlgo-STL-DS-Algo\\NumberTheoryAlgo\\NumberTheoryAlgo\\ProblemSolvingModule\\ProblemSolvingModule.csproj",
         "packagesPath": "C:\\Users\\shohag\\.nuget\\packages\\",
-        "outputPath": "J:\\Basic Programming\\C#NumTheoryAlgo-STL-DS-Algo\\NumberTheoryAlgo\\NumberTheoryAlgo\\ProblemSolvingModule\\obj\\",
+        "outputPath": "J:\\Basic Programming\\C#JobQuery\\C#NumTheoryAlgo-STL-DS-Algo\\NumberTheoryAlgo\\NumberTheoryAlgo\\ProblemSolvingModule\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shohag\\AppData\\Roaming\\NuGet\\NuGet.Config",

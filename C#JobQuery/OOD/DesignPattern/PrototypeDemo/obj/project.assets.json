@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "J:\\Basic Programming\\OOD\\DesignPattern\\PrototypeDemo\\PrototypeDemo.csproj",
+      "projectUniqueName": "J:\\Basic Programming\\C#JobQuery\\OOD\\DesignPattern\\PrototypeDemo\\PrototypeDemo.csproj",
       "projectName": "PrototypeDemo",
-      "projectPath": "J:\\Basic Programming\\OOD\\DesignPattern\\PrototypeDemo\\PrototypeDemo.csproj",
+      "projectPath": "J:\\Basic Programming\\C#JobQuery\\OOD\\DesignPattern\\PrototypeDemo\\PrototypeDemo.csproj",
       "packagesPath": "C:\\Users\\shohag\\.nuget\\packages\\",
-      "outputPath": "J:\\Basic Programming\\OOD\\DesignPattern\\PrototypeDemo\\obj\\",
+      "outputPath": "J:\\Basic Programming\\C#JobQuery\\OOD\\DesignPattern\\PrototypeDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shohag\\AppData\\Roaming\\NuGet\\NuGet.Config",

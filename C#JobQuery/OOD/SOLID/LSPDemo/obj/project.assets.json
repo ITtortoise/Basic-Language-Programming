@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "J:\\Basic Programming\\OOD\\SOLID\\LSPDemo\\LSPDemo.csproj",
+      "projectUniqueName": "J:\\Basic Programming\\C#JobQuery\\OOD\\SOLID\\LSPDemo\\LSPDemo.csproj",
       "projectName": "LSPDemo",
-      "projectPath": "J:\\Basic Programming\\OOD\\SOLID\\LSPDemo\\LSPDemo.csproj",
+      "projectPath": "J:\\Basic Programming\\C#JobQuery\\OOD\\SOLID\\LSPDemo\\LSPDemo.csproj",
       "packagesPath": "C:\\Users\\shohag\\.nuget\\packages\\",
-      "outputPath": "J:\\Basic Programming\\OOD\\SOLID\\LSPDemo\\obj\\",
+      "outputPath": "J:\\Basic Programming\\C#JobQuery\\OOD\\SOLID\\LSPDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shohag\\AppData\\Roaming\\NuGet\\NuGet.Config",

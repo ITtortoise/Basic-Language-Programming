@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "J:\\Basic Programming\\Coding Test Practice\\Practice\\RandomPractice\\RandomPractice.csproj": {}
+    "J:\\Basic Programming\\C#JobQuery\\Coding Test Practice\\Practice\\RandomPractice\\RandomPractice.csproj": {}
   },
   "projects": {
-    "J:\\Basic Programming\\Coding Test Practice\\Practice\\RandomPractice\\RandomPractice.csproj": {
+    "J:\\Basic Programming\\C#JobQuery\\Coding Test Practice\\Practice\\RandomPractice\\RandomPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "J:\\Basic Programming\\Coding Test Practice\\Practice\\RandomPractice\\RandomPractice.csproj",
+        "projectUniqueName": "J:\\Basic Programming\\C#JobQuery\\Coding Test Practice\\Practice\\RandomPractice\\RandomPractice.csproj",
         "projectName": "RandomPractice",
-        "projectPath": "J:\\Basic Programming\\Coding Test Practice\\Practice\\RandomPractice\\RandomPractice.csproj",
+        "projectPath": "J:\\Basic Programming\\C#JobQuery\\Coding Test Practice\\Practice\\RandomPractice\\RandomPractice.csproj",
         "packagesPath": "C:\\Users\\shohag\\.nuget\\packages\\",
-        "outputPath": "J:\\Basic Programming\\Coding Test Practice\\Practice\\RandomPractice\\obj\\",
+        "outputPath": "J:\\Basic Programming\\C#JobQuery\\Coding Test Practice\\Practice\\RandomPractice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shohag\\AppData\\Roaming\\NuGet\\NuGet.Config",

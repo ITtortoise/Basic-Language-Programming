@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EpiIY7h/A9JfkCKlbdIEHhtLv4ro4TlSZZGf3eL3HaUkw2WQIr5yO9mmaMtWSVj0fhykCYnu6+iZxcLO/6UyOw==",
+  "dgSpecHash": "dKPnSTi7jd2+BNUFUUbZ5pH8ndF064+DW5QxzWxLWURsZZIrQdiMQWm9ynBaB3PngmP0VHEHoyVEzR7F/+3fFA==",
   "success": true,
-  "projectFilePath": "J:\\Basic Programming\\OOD\\DesignPattern\\SingletonDemo\\SingletonDemo.csproj",
+  "projectFilePath": "J:\\Basic Programming\\C#JobQuery\\OOD\\DesignPattern\\SingletonDemo\\SingletonDemo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

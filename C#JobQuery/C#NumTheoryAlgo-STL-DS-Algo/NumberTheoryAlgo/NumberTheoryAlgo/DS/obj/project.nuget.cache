@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JFYemkQGu63YerpibADFYj6AUz2lLmapg98Mr1rEJMhEC6mY+OpaHhQI2mgmCkabPE3qwE1m+dRd8jnJjFf18A==",
+  "dgSpecHash": "1TlBd8R38b4+nOcu8KbL0BizldLTgw/SjLVw94kaNWdILNVQAKkhNped4R0M1LnpO/2fOyfDB0cUpRJ2qcKZBQ==",
   "success": true,
-  "projectFilePath": "J:\\Basic Programming\\C#NumTheoryAlgo-STL-DS-Algo\\NumberTheoryAlgo\\NumberTheoryAlgo\\DS\\DS.csproj",
+  "projectFilePath": "J:\\Basic Programming\\C#JobQuery\\C#NumTheoryAlgo-STL-DS-Algo\\NumberTheoryAlgo\\NumberTheoryAlgo\\DS\\DS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shohag\\.nuget\\packages\\nito.collections.deque\\1.0.4\\nito.collections.deque.1.0.4.nupkg.sha512"
   ],

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "991N9VpadsEuxAV4Oo/IhAr4UHv56p2euTlj9QZWewHkdM54csDTczxWHwJDxHvgiTloTTnNucQVtloVw75h2A==",
+  "dgSpecHash": "dj7P2eG/lpF5YjSaZei7PlI1IBe9U+PEYUM4d5dr/xd8nh75w72SGHX2cmYyN96GDU+s88Ccq6k55f+5mLH3zg==",
   "success": true,
-  "projectFilePath": "J:\\Basic Programming\\C#NumTheoryAlgo-STL-DS-Algo\\NumberTheoryAlgo\\NumberTheoryAlgo\\Standard Templete Library\\Standard Templete Library.csproj",
+  "projectFilePath": "J:\\Basic Programming\\C#JobQuery\\C#NumTheoryAlgo-STL-DS-Algo\\NumberTheoryAlgo\\NumberTheoryAlgo\\Standard Templete Library\\Standard Templete Library.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shohag\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
   ],

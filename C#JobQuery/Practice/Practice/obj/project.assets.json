@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "J:\\Basic Programming\\Practice\\Practice\\Practice.csproj",
+      "projectUniqueName": "J:\\Basic Programming\\C#JobQuery\\Practice\\Practice\\Practice.csproj",
       "projectName": "Practice",
-      "projectPath": "J:\\Basic Programming\\Practice\\Practice\\Practice.csproj",
+      "projectPath": "J:\\Basic Programming\\C#JobQuery\\Practice\\Practice\\Practice.csproj",
       "packagesPath": "C:\\Users\\shohag\\.nuget\\packages\\",
-      "outputPath": "J:\\Basic Programming\\Practice\\Practice\\obj\\",
+      "outputPath": "J:\\Basic Programming\\C#JobQuery\\Practice\\Practice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shohag\\AppData\\Roaming\\NuGet\\NuGet.Config",

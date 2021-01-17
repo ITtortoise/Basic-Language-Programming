@@ -8,23 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\ITtortoise\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\shohag\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Basic Programming\\CSharpDSalgo\\AlgoUsingCsharp\\AlgoUsingCsharp.csproj",
+      "projectUniqueName": "J:\\Basic Programming\\C#JobQuery\\C#NumTheoryAlgo-STL-DS-Algo\\CSharpDSalgo\\AlgoUsingCsharp\\AlgoUsingCsharp.csproj",
       "projectName": "AlgoUsingCsharp",
-      "projectPath": "H:\\Basic Programming\\CSharpDSalgo\\AlgoUsingCsharp\\AlgoUsingCsharp.csproj",
-      "packagesPath": "C:\\Users\\ITtortoise\\.nuget\\packages\\",
-      "outputPath": "H:\\Basic Programming\\CSharpDSalgo\\AlgoUsingCsharp\\obj\\",
+      "projectPath": "J:\\Basic Programming\\C#JobQuery\\C#NumTheoryAlgo-STL-DS-Algo\\CSharpDSalgo\\AlgoUsingCsharp\\AlgoUsingCsharp.csproj",
+      "packagesPath": "C:\\Users\\shohag\\.nuget\\packages\\",
+      "outputPath": "J:\\Basic Programming\\C#JobQuery\\C#NumTheoryAlgo-STL-DS-Algo\\CSharpDSalgo\\AlgoUsingCsharp\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ITtortoise\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\shohag\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -36,6 +32,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -47,6 +44,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -62,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

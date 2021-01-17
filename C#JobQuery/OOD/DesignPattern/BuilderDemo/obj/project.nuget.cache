@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7/EaLCIINB6gbGmJFdYTOqAC4B81IcSDrmB5xnmbDeKywH+G5JTmO+dea1NjrZhFDhfVKSNg0JVsHSHEKbeHAw==",
+  "dgSpecHash": "RSAAcl/KcxfIinWier+m1kv8d4Dswuf8igQ4AiSPnVztlByity0/Q3HjILV0jT0+vYuL1JWt4VDrLP/m7+P8IQ==",
   "success": true,
-  "projectFilePath": "J:\\Basic Programming\\OOD\\DesignPattern\\BuilderDemo\\BuilderDemo.csproj",
+  "projectFilePath": "J:\\Basic Programming\\C#JobQuery\\OOD\\DesignPattern\\BuilderDemo\\BuilderDemo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

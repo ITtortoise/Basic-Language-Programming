@@ -18,7 +18,7 @@ namespace Standard_Templete_Library
                 list.Add(new KeyValuePair<int, int>(1,3));
                 list.Add(new KeyValuePair<int, int>(1,2));
                 list.Add(new KeyValuePair<int, int>(2,5));
-                list.Add(new KeyValuePair<int, int>(2,6));
+                list.Add(new KeyValuePair<int, int>(3,6));
                 
             list.Sort(Compare);
 

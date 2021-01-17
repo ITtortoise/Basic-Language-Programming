@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "J:\\Basic Programming\\OOD\\SOLID\\OCPDemo\\OCPDemo.csproj",
+      "projectUniqueName": "J:\\Basic Programming\\C#JobQuery\\OOD\\SOLID\\OCPDemo\\OCPDemo.csproj",
       "projectName": "OCPDemo",
-      "projectPath": "J:\\Basic Programming\\OOD\\SOLID\\OCPDemo\\OCPDemo.csproj",
+      "projectPath": "J:\\Basic Programming\\C#JobQuery\\OOD\\SOLID\\OCPDemo\\OCPDemo.csproj",
       "packagesPath": "C:\\Users\\shohag\\.nuget\\packages\\",
-      "outputPath": "J:\\Basic Programming\\OOD\\SOLID\\OCPDemo\\obj\\",
+      "outputPath": "J:\\Basic Programming\\C#JobQuery\\OOD\\SOLID\\OCPDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shohag\\AppData\\Roaming\\NuGet\\NuGet.Config",

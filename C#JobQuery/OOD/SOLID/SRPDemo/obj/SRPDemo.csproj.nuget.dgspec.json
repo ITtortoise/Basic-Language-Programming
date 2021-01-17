@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "J:\\Basic Programming\\OOD\\SOLID\\SRPDemo\\SRPDemo.csproj": {}
+    "J:\\Basic Programming\\C#JobQuery\\OOD\\SOLID\\SRPDemo\\SRPDemo.csproj": {}
   },
   "projects": {
-    "J:\\Basic Programming\\OOD\\SOLID\\SRPDemo\\SRPDemo.csproj": {
+    "J:\\Basic Programming\\C#JobQuery\\OOD\\SOLID\\SRPDemo\\SRPDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "J:\\Basic Programming\\OOD\\SOLID\\SRPDemo\\SRPDemo.csproj",
+        "projectUniqueName": "J:\\Basic Programming\\C#JobQuery\\OOD\\SOLID\\SRPDemo\\SRPDemo.csproj",
         "projectName": "SRPDemo",
-        "projectPath": "J:\\Basic Programming\\OOD\\SOLID\\SRPDemo\\SRPDemo.csproj",
+        "projectPath": "J:\\Basic Programming\\C#JobQuery\\OOD\\SOLID\\SRPDemo\\SRPDemo.csproj",
         "packagesPath": "C:\\Users\\shohag\\.nuget\\packages\\",
-        "outputPath": "J:\\Basic Programming\\OOD\\SOLID\\SRPDemo\\obj\\",
+        "outputPath": "J:\\Basic Programming\\C#JobQuery\\OOD\\SOLID\\SRPDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shohag\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "J:\\Basic Programming\\OOD\\DesignPattern\\SingletonDemo\\SingletonDemo.csproj": {}
+    "J:\\Basic Programming\\C#JobQuery\\OOD\\DesignPattern\\SingletonDemo\\SingletonDemo.csproj": {}
   },
   "projects": {
-    "J:\\Basic Programming\\OOD\\DesignPattern\\SingletonDemo\\SingletonDemo.csproj": {
+    "J:\\Basic Programming\\C#JobQuery\\OOD\\DesignPattern\\SingletonDemo\\SingletonDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "J:\\Basic Programming\\OOD\\DesignPattern\\SingletonDemo\\SingletonDemo.csproj",
+        "projectUniqueName": "J:\\Basic Programming\\C#JobQuery\\OOD\\DesignPattern\\SingletonDemo\\SingletonDemo.csproj",
         "projectName": "SingletonDemo",
-        "projectPath": "J:\\Basic Programming\\OOD\\DesignPattern\\SingletonDemo\\SingletonDemo.csproj",
+        "projectPath": "J:\\Basic Programming\\C#JobQuery\\OOD\\DesignPattern\\SingletonDemo\\SingletonDemo.csproj",
         "packagesPath": "C:\\Users\\shohag\\.nuget\\packages\\",
-        "outputPath": "J:\\Basic Programming\\OOD\\DesignPattern\\SingletonDemo\\obj\\",
+        "outputPath": "J:\\Basic Programming\\C#JobQuery\\OOD\\DesignPattern\\SingletonDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shohag\\AppData\\Roaming\\NuGet\\NuGet.Config",

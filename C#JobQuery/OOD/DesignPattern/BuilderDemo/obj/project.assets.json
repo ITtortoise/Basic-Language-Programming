@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "J:\\Basic Programming\\OOD\\DesignPattern\\BuilderDemo\\BuilderDemo.csproj",
+      "projectUniqueName": "J:\\Basic Programming\\C#JobQuery\\OOD\\DesignPattern\\BuilderDemo\\BuilderDemo.csproj",
       "projectName": "BuilderDemo",
-      "projectPath": "J:\\Basic Programming\\OOD\\DesignPattern\\BuilderDemo\\BuilderDemo.csproj",
+      "projectPath": "J:\\Basic Programming\\C#JobQuery\\OOD\\DesignPattern\\BuilderDemo\\BuilderDemo.csproj",
       "packagesPath": "C:\\Users\\shohag\\.nuget\\packages\\",
-      "outputPath": "J:\\Basic Programming\\OOD\\DesignPattern\\BuilderDemo\\obj\\",
+      "outputPath": "J:\\Basic Programming\\C#JobQuery\\OOD\\DesignPattern\\BuilderDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shohag\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "J:\\Basic Programming\\Coding Test Practice\\Practice\\LinkedList\\LinkedList.csproj": {}
+    "J:\\Basic Programming\\C#JobQuery\\Coding Test Practice\\Practice\\LinkedList\\LinkedList.csproj": {}
   },
   "projects": {
-    "J:\\Basic Programming\\Coding Test Practice\\Practice\\LinkedList\\LinkedList.csproj": {
+    "J:\\Basic Programming\\C#JobQuery\\Coding Test Practice\\Practice\\LinkedList\\LinkedList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "J:\\Basic Programming\\Coding Test Practice\\Practice\\LinkedList\\LinkedList.csproj",
+        "projectUniqueName": "J:\\Basic Programming\\C#JobQuery\\Coding Test Practice\\Practice\\LinkedList\\LinkedList.csproj",
         "projectName": "LinkedList",
-        "projectPath": "J:\\Basic Programming\\Coding Test Practice\\Practice\\LinkedList\\LinkedList.csproj",
+        "projectPath": "J:\\Basic Programming\\C#JobQuery\\Coding Test Practice\\Practice\\LinkedList\\LinkedList.csproj",
         "packagesPath": "C:\\Users\\shohag\\.nuget\\packages\\",
-        "outputPath": "J:\\Basic Programming\\Coding Test Practice\\Practice\\LinkedList\\obj\\",
+        "outputPath": "J:\\Basic Programming\\C#JobQuery\\Coding Test Practice\\Practice\\LinkedList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shohag\\AppData\\Roaming\\NuGet\\NuGet.Config",

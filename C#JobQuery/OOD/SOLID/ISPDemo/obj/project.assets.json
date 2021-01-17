@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "J:\\Basic Programming\\OOD\\SOLID\\ISPDemo\\ISPDemo.csproj",
+      "projectUniqueName": "J:\\Basic Programming\\C#JobQuery\\OOD\\SOLID\\ISPDemo\\ISPDemo.csproj",
       "projectName": "ISPDemo",
-      "projectPath": "J:\\Basic Programming\\OOD\\SOLID\\ISPDemo\\ISPDemo.csproj",
+      "projectPath": "J:\\Basic Programming\\C#JobQuery\\OOD\\SOLID\\ISPDemo\\ISPDemo.csproj",
       "packagesPath": "C:\\Users\\shohag\\.nuget\\packages\\",
-      "outputPath": "J:\\Basic Programming\\OOD\\SOLID\\ISPDemo\\obj\\",
+      "outputPath": "J:\\Basic Programming\\C#JobQuery\\OOD\\SOLID\\ISPDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shohag\\AppData\\Roaming\\NuGet\\NuGet.Config",
